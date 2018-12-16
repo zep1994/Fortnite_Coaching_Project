@@ -8,6 +8,7 @@ gem 'sqlite3'
 gem 'puma', '~> 3.11'
 gem 'foreman', '~> 0.82.0'
 gem 'devise'
+gem 'active_model_serializers'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 

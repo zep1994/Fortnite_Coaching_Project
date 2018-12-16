@@ -4,7 +4,7 @@ class CreateMeetings < ActiveRecord::Migration[5.2]
 	  t.string :name
 	  t.integer :duration
 	  t.float :price
-	  t.integer :coach_id
+	  t.integer :user_id
 	  t.integer :player_id
 
       t.timestamps
