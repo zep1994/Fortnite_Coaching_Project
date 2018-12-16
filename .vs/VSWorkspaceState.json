@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\client",
+    "\\lib\\tasks"
   ],
-  "SelectedNode": "\\Gemfile",
+  "SelectedNode": "\\client\\package.json",
   "PreviewInSolutionExplorer": false
 }
