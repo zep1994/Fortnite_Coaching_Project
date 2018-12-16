@@ -7,7 +7,7 @@ gem 'rails', '~> 5.2.2'
 gem 'sqlite3'
 gem 'puma', '~> 3.11'
 gem 'foreman', '~> 0.82.0'
-
+gem 'devise'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
